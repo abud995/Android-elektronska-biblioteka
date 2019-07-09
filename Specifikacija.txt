@@ -1,0 +1,18 @@
+Aplikacija - elektronska biblioteka srednjoškolske ustanove
+
+Aplikacija treba da omoguci korisniku da izvrši pretragu kataloga knjiga u repozitorijumu srednjoškolske biblioteke.
+
+Aplikacija treba da cuva u internoj memoriji telefona za aplikaciju podatke o korisniku, medu kojima su ime, prezime, korisnicko ime i heš PIN koda.
+
+Kada se aplikacija pokrene, prvo se od korisnika traži da unese korisnicko ime i PIN kôd i proverava se da li je njegov heš kôd identican kao heš kôd 
+koji se cuva u memoriji kako bi korisnika pustio da pristupi drugim aktivnostima aplikacije. 
+
+Aplikacija sa odredenog veb servisa (API-ja) preuzima podatke o knjigama koje je korisnik pozajmio, kao i onima koje je ranije pozajmljivao i vratio. 
+
+Korisnik može da vrši pretragu knjiga po kljucnim recima koje aplikacija doprema na osnovu upisa ka API-ju. 
+
+Za svaku knjigu se ispisuje da li je trenutno dostupna ili je trenutno pozajmljena. 
+
+Kada korisnik klikne na kratak prikaz knjige u listi, treba da se otvori posebna aktivnost u portret orijentaciji ili da se u desnom fragmentu ucitaju svi podaci o odabranoj knjizi, a koji nisu mogli da stanu u kratak prikaz u listi. 
+
+Dizajn aplikacije, raspored i izgled grafickog korisnickog interfejsa njenih aktivnosti, jezik i oznake polja u aplikaciji student može samostalno da odredi.

@@ -1,0 +1,5 @@
+Nexus 5 API 16 (Android 4.1.2, API 16)
+
+Phone : Nexus 5
+
+Other Images: Jelly Bean 16 mips Android 4.1
